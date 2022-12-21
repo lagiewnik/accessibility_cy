@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "axe-core": "^4.6.1",
+    "cypress": "^12.1.0",
+    "cypress-axe": "^1.2.0"
+  }
+}
